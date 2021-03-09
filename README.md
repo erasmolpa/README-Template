@@ -151,6 +151,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
 
+|Status|Description|Timeline|
+|--|--|--|
+✅| description | Date
+|🚧| description | Date
+|❌| description | Date
 
 
 <!-- CONTRIBUTING -->
@@ -174,9 +179,8 @@ Contributions are what make the open source community such an amazing place to b
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
-
 <!-- CONTACT -->
-## Contact
+## Contact ✒️
 
 Your Name - [@your_twitter](https://twitter.com/erasmolpa) - erasmolpa@gmail.com
 
